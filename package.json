@@ -1,0 +1,32 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "project from free code camp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luiko/request-header-parser-microservice.git"
+  },
+  "keywords": [
+    "fcc",
+    "api",
+    "microservice",
+    "nodejs"
+  ],
+  "author": "Luiko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luiko/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/Luiko/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "external-ip": "^0.2.4",
+    "tape": "^4.6.3"
+  }
+}
